@@ -1,2 +1,2 @@
 # try-out-1
-author-lokman ali
+author-lokman ali <br> a teacher
